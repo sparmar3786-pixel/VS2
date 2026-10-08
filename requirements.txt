@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+smartapi-python>=1.4.8
+logzero
+websocket-client
+pyotp
+requests
+python-dotenv
+openai>=1.30
+pydantic>=2
